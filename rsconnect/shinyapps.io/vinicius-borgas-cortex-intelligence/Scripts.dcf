@@ -1,0 +1,14 @@
+name: Scripts
+title:
+username:
+account: vinicius-borgas-cortex-intelligence
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4424659
+bundleId: 5139344
+url: https://vinicius-borgas-cortex-intelligence.shinyapps.io/Scripts/
+when: 1634230533.34442
+lastSyncTime: 1634230533.34442
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .shiny_run/shinyShortcut.cmd|Script at? Left JoineR.R|shinyShortcut.vbs
